@@ -1,0 +1,19 @@
+#show_sketch{
+    text-align: right;
+}
+h1{
+    color: blue;
+    background-color: antiquewhite;
+}
+#input{
+    color: red;
+}
+body{
+    background-color: rgb(173, 240, 173);
+}
+#score{
+    text-align: left;
+}
+#timer{
+    text-align: right;
+}
